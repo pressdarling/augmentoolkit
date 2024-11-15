@@ -7,7 +7,7 @@ transformers
 accelerate
 matplotlib 
 scipy==1.11.3
-nltk==3.8.1
+nltk==3.9
 openai
 aiohttp
 pyyaml
